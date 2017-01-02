@@ -500,7 +500,7 @@ section h3.section-subheading {
     width: 80px;
     height: 80px;
     margin-left: 0;
-    /*border: 3px solid #f95252;*/
+    border: 3px solid #fff;
     border:none;
     border-radius: 50%;
     text-align: center;
