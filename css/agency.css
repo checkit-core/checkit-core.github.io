@@ -447,7 +447,7 @@ section h3.section-subheading {
 .timeline:before {
     content: "";
     position: absolute;
-    top: 0;
+    top: 5px;
     bottom: 0;
     left: 40px;
     width: 2px;
@@ -501,12 +501,12 @@ section h3.section-subheading {
     height: 80px;
     padding: 0px;
     margin-left: 0;
-    border: 3px solid #d1d1d1;
+    /*border: 3px solid #d1d1d1;*/
     /*border:none;*/
     border-radius: 50%;
     text-align: center;
     color: #fff;
-    background-color: #fff;
+    background-color: #dfdfdf;
     align:center;
 }
 
