@@ -501,7 +501,7 @@ section h3.section-subheading {
     height: 80px;
     margin-left: 0;
     border: 3px solid #fff;
-    border:none;
+    /*border:none;*/
     border-radius: 50%;
     text-align: center;
     color: #fff;
